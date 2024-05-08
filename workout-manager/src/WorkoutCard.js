@@ -8,7 +8,6 @@ function WorkoutCard({name, dispatch}) {
             },
             body: JSON.stringify({name: name})
         }).then(r => dispatch({type: "delete"}));
-        //dispatch({type: "complete", name: name})
     }
 
     return (

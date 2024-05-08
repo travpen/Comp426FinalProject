@@ -28,4 +28,4 @@ The main files for this project are as follows:
     - WorkoutManagerResource.java
     - WorkoutWrapper.java
 
-Link to my presentation video: **TODO**
+Link to my presentation video: (https://youtu.be/b7J9oex6p5U)
