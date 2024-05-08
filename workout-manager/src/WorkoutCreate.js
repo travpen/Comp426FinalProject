@@ -19,7 +19,7 @@ function WorkoutCreate({dispatch}) {
 
     return (
         <div>
-            <input type="text" placeholder="Name, Reps, Weight" onKeyDown={handleKeyPress}/>
+            <input type="text" placeholder="ex. Name, Reps, Weight" className="custom-input" onKeyDown={handleKeyPress}/>
         </div>
     )
 
