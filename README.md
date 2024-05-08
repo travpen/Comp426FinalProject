@@ -17,13 +17,15 @@ For my project, I made a workout manager that allows users to create workouts th
 
 The main files for this project are as follows:
 
-- In the workout-manager file:
+- (Front End) In the workout-manager file:
     - index.js
     - App.js
     - App.css
     - WorkoutManager.js
     - WorkoutCreate.js
     - WorkoutCard.js
-- In the backend/src/main/java/org/acme file:
+- (Back End) In the backend/src/main/java/org/acme file:
     - WorkoutManagerResource.java
     - WorkoutWrapper.java
+
+Link to my presentation video: **TODO**
